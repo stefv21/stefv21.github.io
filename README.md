@@ -3,6 +3,17 @@ Description
 
 This is a responsive portfolio website designed to showcase my professional projects, skills, and accomplishments built throughout my Full-Stack Web Development journey. It serves as a dynamic platform to share my work with my professional network, potential employers, and collaborators. The site is designed with a focus on accessibility, usability, and responsiveness, ensuring a smooth experience across devices and input types.
 
+
+Preview
+
+(Replace this with a real screenshot from your site.)
+
+Live Demo
+
+Check out the live version here.
+(If you haven't deployed it yet, you can add this link later.)
+
+
 Features
 
 Multiple Interconnected Pages: Includes at least 3 interconnected HTML pages to structure different sections of the portfolio (e.g., Home, Projects, About Me, Contact).
