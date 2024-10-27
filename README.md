@@ -29,13 +29,6 @@ Hosting & Version Control: The code is hosted on a GitHub repository for easy co
 
 Optional Deployment: The website can be deployed on a server (e.g., free test server), although it’s optional.
 
-Usage
-
-To view or contribute to the project:
-
-Visit the GitHub repository.
-Clone the repository and open the HTML files in a browser.
-(Optional) Deploy the project on your preferred server.
 Final Thoughts
 
 This portfolio site represents the culmination of my skills developed during the Full-Stack Web Development Program. It is more than just a showcase—it's a reflection of my dedication to continuous learning and professional growth.
